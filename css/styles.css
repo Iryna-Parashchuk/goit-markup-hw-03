@@ -318,6 +318,9 @@ button {
 
 a.footer-logo {
   display: inline-block;
+}
+
+.footer-logo {
   margin-bottom: 16px;
 }
 
