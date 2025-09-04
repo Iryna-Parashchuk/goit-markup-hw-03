@@ -331,6 +331,11 @@ a.footer-logo {
   margin-bottom: 16px;
 }
 
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 .footer-text {
   max-width: 264px;
   font-weight: 400;
